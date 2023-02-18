@@ -14,7 +14,7 @@
       "height": 4089,
       "path": "./photos/Travel Photography/P5065869.jpg",
       "compressed_path": "./photos/Travel Photography/P5065869.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Travel Photography/P5065869.placeholder.jpg"
     },
     {
@@ -22,7 +22,7 @@
       "height": 2731,
       "path": "./photos/Travel Photography/PC143145.jpg",
       "compressed_path": "./photos/Travel Photography/PC143145.min.jpg",
-      "compressed": false,
+      "compressed": true,
       "placeholder_path": "./photos/Travel Photography/PC143145.placeholder.jpg"
     }
   ]
