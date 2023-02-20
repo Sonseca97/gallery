@@ -1,22 +1,5 @@
 {
-  "Penang, Malaysia": [
-    {
-      "width": 2726,
-      "height": 4089,
-      "path": "./photos/Penang, Malaysia/P5065869.jpg",
-      "compressed_path": "./photos/Penang, Malaysia/P5065869.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Penang, Malaysia/P5065869.placeholder.jpg"
-    },
-    {
-      "width": 4245,
-      "height": 2388,
-      "path": "./photos/Penang, Malaysia/P5065872.jpg",
-      "compressed_path": "./photos/Penang, Malaysia/P5065872.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Penang, Malaysia/P5065872.placeholder.jpg"
-    }
-  ],
+  "Penang, Malaysia": [],
   "Travel Photography": [
     {
       "width": 2048,
@@ -25,14 +8,6 @@
       "compressed_path": "./photos/Travel Photography/20200614083410.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Travel Photography/20200614083410.placeholder.jpg"
-    },
-    {
-      "width": 3641,
-      "height": 2731,
-      "path": "./photos/Travel Photography/PC143145.jpg",
-      "compressed_path": "./photos/Travel Photography/PC143145.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/PC143145.placeholder.jpg"
     }
   ]
 }
