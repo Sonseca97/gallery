@@ -1,13 +1,88 @@
 {
-  "Penang, Malaysia": [],
-  "Travel Photography": [
+  "Istanbul": [
     {
       "width": 2048,
       "height": 1536,
-      "path": "./photos/Travel Photography/20200614083410.jpg",
-      "compressed_path": "./photos/Travel Photography/20200614083410.min.jpg",
+      "path": "./photos/Istanbul/20200614083410.jpg",
+      "compressed_path": "./photos/Istanbul/20200614083410.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Travel Photography/20200614083410.placeholder.jpg"
+      "placeholder_path": "./photos/Istanbul/20200614083410.placeholder.jpg"
+    },
+    {
+      "width": 3241,
+      "height": 2431,
+      "path": "./photos/Istanbul/P8200207.jpg",
+      "compressed_path": "./photos/Istanbul/P8200207.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Istanbul/P8200207.placeholder.jpg"
+    },
+    {
+      "width": 3641,
+      "height": 2731,
+      "path": "./photos/Istanbul/PC143145.jpg",
+      "compressed_path": "./photos/Istanbul/PC143145.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Istanbul/PC143145.placeholder.jpg"
+    }
+  ],
+  "Live Music": [
+    {
+      "width": 2473,
+      "height": 3297,
+      "path": "./photos/Live Music/P6265198.jpg",
+      "compressed_path": "./photos/Live Music/P6265198.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Live Music/P6265198.placeholder.jpg"
+    },
+    {
+      "width": 2817,
+      "height": 3756,
+      "path": "./photos/Live Music/P6265203.jpg",
+      "compressed_path": "./photos/Live Music/P6265203.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Live Music/P6265203.placeholder.jpg"
+    },
+    {
+      "width": 3326,
+      "height": 2495,
+      "path": "./photos/Live Music/P6265214.jpg",
+      "compressed_path": "./photos/Live Music/P6265214.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Live Music/P6265214.placeholder.jpg"
+    },
+    {
+      "width": 3585,
+      "height": 2689,
+      "path": "./photos/Live Music/P6265223.jpg",
+      "compressed_path": "./photos/Live Music/P6265223.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Live Music/P6265223.placeholder.jpg"
+    },
+    {
+      "width": 2592,
+      "height": 3456,
+      "path": "./photos/Live Music/P6265225.jpg",
+      "compressed_path": "./photos/Live Music/P6265225.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Live Music/P6265225.placeholder.jpg"
+    }
+  ],
+  "Penang, Malaysia": [
+    {
+      "width": 2726,
+      "height": 4089,
+      "path": "./photos/Penang, Malaysia/P5065869.jpg",
+      "compressed_path": "./photos/Penang, Malaysia/P5065869.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Penang, Malaysia/P5065869.placeholder.jpg"
+    },
+    {
+      "width": 4245,
+      "height": 2388,
+      "path": "./photos/Penang, Malaysia/P5065872.jpg",
+      "compressed_path": "./photos/Penang, Malaysia/P5065872.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Penang, Malaysia/P5065872.placeholder.jpg"
     }
   ]
 }
