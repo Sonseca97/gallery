@@ -1,6 +1,22 @@
 {
   "Istanbul": [
     {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Istanbul/068A5762-48DC-4C78-9E42-D23C0312E1C4.JPG",
+      "compressed_path": "./photos/Istanbul/068A5762-48DC-4C78-9E42-D23C0312E1C4.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Istanbul/068A5762-48DC-4C78-9E42-D23C0312E1C4.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Istanbul/1A90CA0B-670C-4597-AD93-DFCFECB0BBF3.JPG",
+      "compressed_path": "./photos/Istanbul/1A90CA0B-670C-4597-AD93-DFCFECB0BBF3.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Istanbul/1A90CA0B-670C-4597-AD93-DFCFECB0BBF3.placeholder.JPG"
+    },
+    {
       "width": 2048,
       "height": 1536,
       "path": "./photos/Istanbul/20200614083410.jpg",
@@ -9,20 +25,60 @@
       "placeholder_path": "./photos/Istanbul/20200614083410.placeholder.jpg"
     },
     {
+      "width": 3456,
+      "height": 4608,
+      "path": "./photos/Istanbul/86B6D5BC-93AE-416D-8B4A-51344C3B43FC.JPG",
+      "compressed_path": "./photos/Istanbul/86B6D5BC-93AE-416D-8B4A-51344C3B43FC.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Istanbul/86B6D5BC-93AE-416D-8B4A-51344C3B43FC.placeholder.JPG"
+    },
+    {
+      "width": 4130,
+      "height": 3092,
+      "path": "./photos/Istanbul/A2685E36-7006-4D66-BCB4-2AAA3AB72E75.JPG",
+      "compressed_path": "./photos/Istanbul/A2685E36-7006-4D66-BCB4-2AAA3AB72E75.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Istanbul/A2685E36-7006-4D66-BCB4-2AAA3AB72E75.placeholder.JPG"
+    },
+    {
+      "width": 1888,
+      "height": 1413,
+      "path": "./photos/Istanbul/A84337CC-12D2-42D7-8641-A35BA5C8E751.JPG",
+      "compressed_path": "./photos/Istanbul/A84337CC-12D2-42D7-8641-A35BA5C8E751.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Istanbul/A84337CC-12D2-42D7-8641-A35BA5C8E751.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1534,
+      "path": "./photos/Istanbul/CE0D5521-DAAD-4094-BFEB-AC23A9C732FA.JPG",
+      "compressed_path": "./photos/Istanbul/CE0D5521-DAAD-4094-BFEB-AC23A9C732FA.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Istanbul/CE0D5521-DAAD-4094-BFEB-AC23A9C732FA.placeholder.JPG"
+    },
+    {
+      "width": 1826,
+      "height": 1215,
+      "path": "./photos/Istanbul/D1B3D5ED-5B07-42A3-BBB2-C1C4C28D00AA.JPG",
+      "compressed_path": "./photos/Istanbul/D1B3D5ED-5B07-42A3-BBB2-C1C4C28D00AA.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Istanbul/D1B3D5ED-5B07-42A3-BBB2-C1C4C28D00AA.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Istanbul/F603FD37-9F2D-412A-8BBF-E12AA1B04EB6.JPG",
+      "compressed_path": "./photos/Istanbul/F603FD37-9F2D-412A-8BBF-E12AA1B04EB6.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Istanbul/F603FD37-9F2D-412A-8BBF-E12AA1B04EB6.placeholder.JPG"
+    },
+    {
       "width": 3241,
       "height": 2431,
       "path": "./photos/Istanbul/P8200207.jpg",
       "compressed_path": "./photos/Istanbul/P8200207.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Istanbul/P8200207.placeholder.jpg"
-    },
-    {
-      "width": 3641,
-      "height": 2731,
-      "path": "./photos/Istanbul/PC143145.jpg",
-      "compressed_path": "./photos/Istanbul/PC143145.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Istanbul/PC143145.placeholder.jpg"
     }
   ],
   "Live Music": [
