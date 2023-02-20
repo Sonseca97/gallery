@@ -125,6 +125,22 @@
   ],
   "Penang, Malaysia": [
     {
+      "width": 1203,
+      "height": 1811,
+      "path": "./photos/Penang, Malaysia/IMG_2682.JPG",
+      "compressed_path": "./photos/Penang, Malaysia/IMG_2682.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Penang, Malaysia/IMG_2682.placeholder.JPG"
+    },
+    {
+      "width": 1518,
+      "height": 1007,
+      "path": "./photos/Penang, Malaysia/IMG_2683.JPG",
+      "compressed_path": "./photos/Penang, Malaysia/IMG_2683.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Penang, Malaysia/IMG_2683.placeholder.JPG"
+    },
+    {
       "width": 2726,
       "height": 4089,
       "path": "./photos/Penang, Malaysia/P5065869.jpg",
@@ -139,6 +155,72 @@
       "compressed_path": "./photos/Penang, Malaysia/P5065872.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Penang, Malaysia/P5065872.placeholder.jpg"
+    }
+  ],
+  "Sofia, Bulgaria": [
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Sofia, Bulgaria/41DEB141-967F-4EE6-A85F-CB12C5361FB0.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/41DEB141-967F-4EE6-A85F-CB12C5361FB0.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Sofia, Bulgaria/41DEB141-967F-4EE6-A85F-CB12C5361FB0.placeholder.JPG"
+    },
+    {
+      "width": 1444,
+      "height": 1082,
+      "path": "./photos/Sofia, Bulgaria/452B3A81-82DC-4525-964E-E50A3C30B2C6.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/452B3A81-82DC-4525-964E-E50A3C30B2C6.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Sofia, Bulgaria/452B3A81-82DC-4525-964E-E50A3C30B2C6.placeholder.JPG"
+    },
+    {
+      "width": 1359,
+      "height": 1819,
+      "path": "./photos/Sofia, Bulgaria/4537DC68-63A3-4A75-B876-85504D87EA1A.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/4537DC68-63A3-4A75-B876-85504D87EA1A.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Sofia, Bulgaria/4537DC68-63A3-4A75-B876-85504D87EA1A.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Sofia, Bulgaria/613CA569-088A-4723-943D-6F7B917FB352.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/613CA569-088A-4723-943D-6F7B917FB352.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Sofia, Bulgaria/613CA569-088A-4723-943D-6F7B917FB352.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Sofia, Bulgaria/66D731C4-A2FC-45D0-80ED-1B4F1236E308.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/66D731C4-A2FC-45D0-80ED-1B4F1236E308.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Sofia, Bulgaria/66D731C4-A2FC-45D0-80ED-1B4F1236E308.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Sofia, Bulgaria/8DF78A9B-C501-4C8F-BF2F-235777020E58.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/8DF78A9B-C501-4C8F-BF2F-235777020E58.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Sofia, Bulgaria/8DF78A9B-C501-4C8F-BF2F-235777020E58.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Sofia, Bulgaria/C8C1CC5F-D21C-47F1-9197-54D5AE75ABE6.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/C8C1CC5F-D21C-47F1-9197-54D5AE75ABE6.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Sofia, Bulgaria/C8C1CC5F-D21C-47F1-9197-54D5AE75ABE6.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Sofia, Bulgaria/F893881E-3AA6-4F8D-ABC9-DBEBF2A8612B.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/F893881E-3AA6-4F8D-ABC9-DBEBF2A8612B.min.JPG",
+      "compressed": true,
+      "placeholder_path": "./photos/Sofia, Bulgaria/F893881E-3AA6-4F8D-ABC9-DBEBF2A8612B.placeholder.JPG"
     }
   ]
 }
