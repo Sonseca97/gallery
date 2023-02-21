@@ -66,7 +66,7 @@ def get_images(path):
             'height': height,
             'path': './' + RELATIVE_PATH + '/' + path + '/' + img,
             'compressed_path': get_min_path(p),
-            'compressed': has_compressed,
+            'compressed': False,
             'placeholder_path': get_placeholder_path(p)
         })
     return result
