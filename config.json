@@ -1,5 +1,79 @@
 {
+  "Sofia, Bulgaria": [
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Sofia, Bulgaria/F893881E-3AA6-4F8D-ABC9-DBEBF2A8612B.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/F893881E-3AA6-4F8D-ABC9-DBEBF2A8612B.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Sofia, Bulgaria/F893881E-3AA6-4F8D-ABC9-DBEBF2A8612B.placeholder.JPG"
+    },
+    {
+      "width": 1536,
+      "height": 2048,
+      "path": "./photos/Sofia, Bulgaria/41DEB141-967F-4EE6-A85F-CB12C5361FB0.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/41DEB141-967F-4EE6-A85F-CB12C5361FB0.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Sofia, Bulgaria/41DEB141-967F-4EE6-A85F-CB12C5361FB0.placeholder.JPG"
+    },
+    {
+      "width": 1359,
+      "height": 1819,
+      "path": "./photos/Sofia, Bulgaria/4537DC68-63A3-4A75-B876-85504D87EA1A.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/4537DC68-63A3-4A75-B876-85504D87EA1A.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Sofia, Bulgaria/4537DC68-63A3-4A75-B876-85504D87EA1A.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Sofia, Bulgaria/66D731C4-A2FC-45D0-80ED-1B4F1236E308.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/66D731C4-A2FC-45D0-80ED-1B4F1236E308.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Sofia, Bulgaria/66D731C4-A2FC-45D0-80ED-1B4F1236E308.placeholder.JPG"
+    },
+    {
+      "width": 1444,
+      "height": 1082,
+      "path": "./photos/Sofia, Bulgaria/452B3A81-82DC-4525-964E-E50A3C30B2C6.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/452B3A81-82DC-4525-964E-E50A3C30B2C6.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Sofia, Bulgaria/452B3A81-82DC-4525-964E-E50A3C30B2C6.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Sofia, Bulgaria/613CA569-088A-4723-943D-6F7B917FB352.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/613CA569-088A-4723-943D-6F7B917FB352.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Sofia, Bulgaria/613CA569-088A-4723-943D-6F7B917FB352.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Sofia, Bulgaria/C8C1CC5F-D21C-47F1-9197-54D5AE75ABE6.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/C8C1CC5F-D21C-47F1-9197-54D5AE75ABE6.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Sofia, Bulgaria/C8C1CC5F-D21C-47F1-9197-54D5AE75ABE6.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Sofia, Bulgaria/8DF78A9B-C501-4C8F-BF2F-235777020E58.JPG",
+      "compressed_path": "./photos/Sofia, Bulgaria/8DF78A9B-C501-4C8F-BF2F-235777020E58.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Sofia, Bulgaria/8DF78A9B-C501-4C8F-BF2F-235777020E58.placeholder.JPG"
+    }
+  ],
   "Istanbul": [
+    {
+      "width": 3241,
+      "height": 2431,
+      "path": "./photos/Istanbul/P8200207.jpg",
+      "compressed_path": "./photos/Istanbul/P8200207.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Istanbul/P8200207.placeholder.jpg"
+    },
     {
       "width": 1536,
       "height": 2048,
@@ -7,38 +81,6 @@
       "compressed_path": "./photos/Istanbul/068A5762-48DC-4C78-9E42-D23C0312E1C4.min.JPG",
       "compressed": false,
       "placeholder_path": "./photos/Istanbul/068A5762-48DC-4C78-9E42-D23C0312E1C4.placeholder.JPG"
-    },
-    {
-      "width": 2048,
-      "height": 1536,
-      "path": "./photos/Istanbul/1A90CA0B-670C-4597-AD93-DFCFECB0BBF3.JPG",
-      "compressed_path": "./photos/Istanbul/1A90CA0B-670C-4597-AD93-DFCFECB0BBF3.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Istanbul/1A90CA0B-670C-4597-AD93-DFCFECB0BBF3.placeholder.JPG"
-    },
-    {
-      "width": 2048,
-      "height": 1536,
-      "path": "./photos/Istanbul/20200614083410.jpg",
-      "compressed_path": "./photos/Istanbul/20200614083410.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Istanbul/20200614083410.placeholder.jpg"
-    },
-    {
-      "width": 3456,
-      "height": 4608,
-      "path": "./photos/Istanbul/86B6D5BC-93AE-416D-8B4A-51344C3B43FC.JPG",
-      "compressed_path": "./photos/Istanbul/86B6D5BC-93AE-416D-8B4A-51344C3B43FC.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Istanbul/86B6D5BC-93AE-416D-8B4A-51344C3B43FC.placeholder.JPG"
-    },
-    {
-      "width": 4130,
-      "height": 3092,
-      "path": "./photos/Istanbul/A2685E36-7006-4D66-BCB4-2AAA3AB72E75.JPG",
-      "compressed_path": "./photos/Istanbul/A2685E36-7006-4D66-BCB4-2AAA3AB72E75.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Istanbul/A2685E36-7006-4D66-BCB4-2AAA3AB72E75.placeholder.JPG"
     },
     {
       "width": 1888,
@@ -49,12 +91,36 @@
       "placeholder_path": "./photos/Istanbul/A84337CC-12D2-42D7-8641-A35BA5C8E751.placeholder.JPG"
     },
     {
+      "width": 3456,
+      "height": 4608,
+      "path": "./photos/Istanbul/86B6D5BC-93AE-416D-8B4A-51344C3B43FC.JPG",
+      "compressed_path": "./photos/Istanbul/86B6D5BC-93AE-416D-8B4A-51344C3B43FC.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Istanbul/86B6D5BC-93AE-416D-8B4A-51344C3B43FC.placeholder.JPG"
+    },
+    {
       "width": 2048,
       "height": 1534,
       "path": "./photos/Istanbul/CE0D5521-DAAD-4094-BFEB-AC23A9C732FA.JPG",
       "compressed_path": "./photos/Istanbul/CE0D5521-DAAD-4094-BFEB-AC23A9C732FA.min.JPG",
       "compressed": false,
       "placeholder_path": "./photos/Istanbul/CE0D5521-DAAD-4094-BFEB-AC23A9C732FA.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Istanbul/F603FD37-9F2D-412A-8BBF-E12AA1B04EB6.JPG",
+      "compressed_path": "./photos/Istanbul/F603FD37-9F2D-412A-8BBF-E12AA1B04EB6.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Istanbul/F603FD37-9F2D-412A-8BBF-E12AA1B04EB6.placeholder.JPG"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/Istanbul/20200614083410.jpg",
+      "compressed_path": "./photos/Istanbul/20200614083410.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Istanbul/20200614083410.placeholder.jpg"
     },
     {
       "width": 1826,
@@ -67,44 +133,62 @@
     {
       "width": 2048,
       "height": 1536,
-      "path": "./photos/Istanbul/F603FD37-9F2D-412A-8BBF-E12AA1B04EB6.JPG",
-      "compressed_path": "./photos/Istanbul/F603FD37-9F2D-412A-8BBF-E12AA1B04EB6.min.JPG",
+      "path": "./photos/Istanbul/1A90CA0B-670C-4597-AD93-DFCFECB0BBF3.JPG",
+      "compressed_path": "./photos/Istanbul/1A90CA0B-670C-4597-AD93-DFCFECB0BBF3.min.JPG",
       "compressed": false,
-      "placeholder_path": "./photos/Istanbul/F603FD37-9F2D-412A-8BBF-E12AA1B04EB6.placeholder.JPG"
+      "placeholder_path": "./photos/Istanbul/1A90CA0B-670C-4597-AD93-DFCFECB0BBF3.placeholder.JPG"
     },
     {
-      "width": 3241,
-      "height": 2431,
-      "path": "./photos/Istanbul/P8200207.jpg",
-      "compressed_path": "./photos/Istanbul/P8200207.min.jpg",
+      "width": 4130,
+      "height": 3092,
+      "path": "./photos/Istanbul/A2685E36-7006-4D66-BCB4-2AAA3AB72E75.JPG",
+      "compressed_path": "./photos/Istanbul/A2685E36-7006-4D66-BCB4-2AAA3AB72E75.min.JPG",
       "compressed": false,
-      "placeholder_path": "./photos/Istanbul/P8200207.placeholder.jpg"
+      "placeholder_path": "./photos/Istanbul/A2685E36-7006-4D66-BCB4-2AAA3AB72E75.placeholder.JPG"
+    }
+  ],
+  "Pentax K1000": [
+    {
+      "width": 3637,
+      "height": 2433,
+      "path": "./photos/Pentax K1000/11974ab45ocd8511ebbcd2b96d898c41.JPG",
+      "compressed_path": "./photos/Pentax K1000/11974ab45ocd8511ebbcd2b96d898c41.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Pentax K1000/11974ab45ocd8511ebbcd2b96d898c41.placeholder.JPG"
+    },
+    {
+      "width": 3637,
+      "height": 2433,
+      "path": "./photos/Pentax K1000/240b3046dg9f4339052dcbbed33e1224.JPG",
+      "compressed_path": "./photos/Pentax K1000/240b3046dg9f4339052dcbbed33e1224.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Pentax K1000/240b3046dg9f4339052dcbbed33e1224.placeholder.JPG"
+    },
+    {
+      "width": 3637,
+      "height": 2433,
+      "path": "./photos/Pentax K1000/921e52ba3ue9ee515aa8836cf37f281f.JPG",
+      "compressed_path": "./photos/Pentax K1000/921e52ba3ue9ee515aa8836cf37f281f.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Pentax K1000/921e52ba3ue9ee515aa8836cf37f281f.placeholder.JPG"
+    },
+    {
+      "width": 3637,
+      "height": 2433,
+      "path": "./photos/Pentax K1000/302a1729fo1277264982ae823e4892da.JPG",
+      "compressed_path": "./photos/Pentax K1000/302a1729fo1277264982ae823e4892da.min.JPG",
+      "compressed": false,
+      "placeholder_path": "./photos/Pentax K1000/302a1729fo1277264982ae823e4892da.placeholder.JPG"
     }
   ],
   "Live Music": [
     {
-      "width": 2473,
-      "height": 3297,
-      "path": "./photos/Live Music/P6265198.jpg",
-      "compressed_path": "./photos/Live Music/P6265198.min.jpg",
+      "width": 2592,
+      "height": 3456,
+      "path": "./photos/Live Music/P6265225.jpg",
+      "compressed_path": "./photos/Live Music/P6265225.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Live Music/P6265198.placeholder.jpg"
-    },
-    {
-      "width": 2817,
-      "height": 3756,
-      "path": "./photos/Live Music/P6265203.jpg",
-      "compressed_path": "./photos/Live Music/P6265203.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Live Music/P6265203.placeholder.jpg"
-    },
-    {
-      "width": 3326,
-      "height": 2495,
-      "path": "./photos/Live Music/P6265214.jpg",
-      "compressed_path": "./photos/Live Music/P6265214.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Live Music/P6265214.placeholder.jpg"
+      "placeholder_path": "./photos/Live Music/P6265225.placeholder.jpg"
     },
     {
       "width": 3585,
@@ -115,15 +199,39 @@
       "placeholder_path": "./photos/Live Music/P6265223.placeholder.jpg"
     },
     {
-      "width": 2592,
-      "height": 3456,
-      "path": "./photos/Live Music/P6265225.jpg",
-      "compressed_path": "./photos/Live Music/P6265225.min.jpg",
+      "width": 2473,
+      "height": 3297,
+      "path": "./photos/Live Music/P6265198.jpg",
+      "compressed_path": "./photos/Live Music/P6265198.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Live Music/P6265225.placeholder.jpg"
+      "placeholder_path": "./photos/Live Music/P6265198.placeholder.jpg"
+    },
+    {
+      "width": 3326,
+      "height": 2495,
+      "path": "./photos/Live Music/P6265214.jpg",
+      "compressed_path": "./photos/Live Music/P6265214.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Live Music/P6265214.placeholder.jpg"
+    },
+    {
+      "width": 2817,
+      "height": 3756,
+      "path": "./photos/Live Music/P6265203.jpg",
+      "compressed_path": "./photos/Live Music/P6265203.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Live Music/P6265203.placeholder.jpg"
     }
   ],
   "Penang, Malaysia": [
+    {
+      "width": 4245,
+      "height": 2388,
+      "path": "./photos/Penang, Malaysia/P5065872.jpg",
+      "compressed_path": "./photos/Penang, Malaysia/P5065872.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Penang, Malaysia/P5065872.placeholder.jpg"
+    },
     {
       "width": 1203,
       "height": 1811,
@@ -147,80 +255,6 @@
       "compressed_path": "./photos/Penang, Malaysia/P5065869.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Penang, Malaysia/P5065869.placeholder.jpg"
-    },
-    {
-      "width": 4245,
-      "height": 2388,
-      "path": "./photos/Penang, Malaysia/P5065872.jpg",
-      "compressed_path": "./photos/Penang, Malaysia/P5065872.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Penang, Malaysia/P5065872.placeholder.jpg"
-    }
-  ],
-  "Sofia, Bulgaria": [
-    {
-      "width": 1536,
-      "height": 2048,
-      "path": "./photos/Sofia, Bulgaria/41DEB141-967F-4EE6-A85F-CB12C5361FB0.JPG",
-      "compressed_path": "./photos/Sofia, Bulgaria/41DEB141-967F-4EE6-A85F-CB12C5361FB0.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Sofia, Bulgaria/41DEB141-967F-4EE6-A85F-CB12C5361FB0.placeholder.JPG"
-    },
-    {
-      "width": 1444,
-      "height": 1082,
-      "path": "./photos/Sofia, Bulgaria/452B3A81-82DC-4525-964E-E50A3C30B2C6.JPG",
-      "compressed_path": "./photos/Sofia, Bulgaria/452B3A81-82DC-4525-964E-E50A3C30B2C6.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Sofia, Bulgaria/452B3A81-82DC-4525-964E-E50A3C30B2C6.placeholder.JPG"
-    },
-    {
-      "width": 1359,
-      "height": 1819,
-      "path": "./photos/Sofia, Bulgaria/4537DC68-63A3-4A75-B876-85504D87EA1A.JPG",
-      "compressed_path": "./photos/Sofia, Bulgaria/4537DC68-63A3-4A75-B876-85504D87EA1A.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Sofia, Bulgaria/4537DC68-63A3-4A75-B876-85504D87EA1A.placeholder.JPG"
-    },
-    {
-      "width": 2048,
-      "height": 1536,
-      "path": "./photos/Sofia, Bulgaria/613CA569-088A-4723-943D-6F7B917FB352.JPG",
-      "compressed_path": "./photos/Sofia, Bulgaria/613CA569-088A-4723-943D-6F7B917FB352.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Sofia, Bulgaria/613CA569-088A-4723-943D-6F7B917FB352.placeholder.JPG"
-    },
-    {
-      "width": 2048,
-      "height": 1536,
-      "path": "./photos/Sofia, Bulgaria/66D731C4-A2FC-45D0-80ED-1B4F1236E308.JPG",
-      "compressed_path": "./photos/Sofia, Bulgaria/66D731C4-A2FC-45D0-80ED-1B4F1236E308.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Sofia, Bulgaria/66D731C4-A2FC-45D0-80ED-1B4F1236E308.placeholder.JPG"
-    },
-    {
-      "width": 2048,
-      "height": 1536,
-      "path": "./photos/Sofia, Bulgaria/8DF78A9B-C501-4C8F-BF2F-235777020E58.JPG",
-      "compressed_path": "./photos/Sofia, Bulgaria/8DF78A9B-C501-4C8F-BF2F-235777020E58.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Sofia, Bulgaria/8DF78A9B-C501-4C8F-BF2F-235777020E58.placeholder.JPG"
-    },
-    {
-      "width": 2048,
-      "height": 1536,
-      "path": "./photos/Sofia, Bulgaria/C8C1CC5F-D21C-47F1-9197-54D5AE75ABE6.JPG",
-      "compressed_path": "./photos/Sofia, Bulgaria/C8C1CC5F-D21C-47F1-9197-54D5AE75ABE6.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Sofia, Bulgaria/C8C1CC5F-D21C-47F1-9197-54D5AE75ABE6.placeholder.JPG"
-    },
-    {
-      "width": 2048,
-      "height": 1536,
-      "path": "./photos/Sofia, Bulgaria/F893881E-3AA6-4F8D-ABC9-DBEBF2A8612B.JPG",
-      "compressed_path": "./photos/Sofia, Bulgaria/F893881E-3AA6-4F8D-ABC9-DBEBF2A8612B.min.JPG",
-      "compressed": false,
-      "placeholder_path": "./photos/Sofia, Bulgaria/F893881E-3AA6-4F8D-ABC9-DBEBF2A8612B.placeholder.JPG"
     }
   ]
 }
