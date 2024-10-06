@@ -1,4 +1,46 @@
 {
+  "Sri Lanka": [
+    {
+      "width": 1862,
+      "height": 2483,
+      "path": "./photos/Sri Lanka/PC041401-Enhanced-NR.jpg",
+      "compressed_path": "./photos/Sri Lanka/PC041401-Enhanced-NR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Sri Lanka/PC041401-Enhanced-NR.placeholder.jpg"
+    },
+    {
+      "width": 1634,
+      "height": 2179,
+      "path": "./photos/Sri Lanka/PC071690.jpg",
+      "compressed_path": "./photos/Sri Lanka/PC071690.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Sri Lanka/PC071690.placeholder.jpg"
+    },
+    {
+      "width": 2876,
+      "height": 3835,
+      "path": "./photos/Sri Lanka/P1011319.jpg",
+      "compressed_path": "./photos/Sri Lanka/P1011319.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Sri Lanka/P1011319.placeholder.jpg"
+    },
+    {
+      "width": 2442,
+      "height": 1832,
+      "path": "./photos/Sri Lanka/PC071697-Enhanced-NR.jpg",
+      "compressed_path": "./photos/Sri Lanka/PC071697-Enhanced-NR.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Sri Lanka/PC071697-Enhanced-NR.placeholder.jpg"
+    },
+    {
+      "width": 3085,
+      "height": 2314,
+      "path": "./photos/Sri Lanka/P1011306.jpg",
+      "compressed_path": "./photos/Sri Lanka/P1011306.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Sri Lanka/P1011306.placeholder.jpg"
+    }
+  ],
   "Sofia, Bulgaria": [
     {
       "width": 2048,
